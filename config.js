@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Bạn à!',
+    introTitle: 'Bạn tôi à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao bạn cứ đi nhầm đường
     Lạc vào tim tôi lẻ loi
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'tôi biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Xem video tôi cất công làm cho bạn nhá :3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' 
+    messLink: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
 }
