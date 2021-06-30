@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'Vẫn cứ là thích tôi <33',
     btnNo: 'Không, bạn tôi à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu tôi <3',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi cho tôi <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'tôi biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Xem video tôi cất công làm cho bạn nhá :3.',
