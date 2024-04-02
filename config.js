@@ -4,7 +4,7 @@ const CONFIG = {
     Em có thể phá lệ và call a tối nay ?
     Đừng buồn nữa
     Anh yêu em.`,
-    btnIntro: 'hihi',
+    btnIntro: 'dạ',
     title: 'Đừng giận nữa k tốt cho sức khỏe đouu 😙',
     desc: 'Nên liệu người đẹp sau màn hình sẽ tha lỗi cho tui?  ',
     btnYes: 'Vẫn cứ là tha lỗi cho tuii <33',
