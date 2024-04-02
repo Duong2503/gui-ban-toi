@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'cuns oi...',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao bạn cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Anh thsu biết lỗi rồi ạa
+    Em có thể phá lệ và call a tối nay ?
+    Đừng buồn nữa
+    Anh yêu em.`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tôi <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'anh biết mà 🥰. Yêu emm nhiều nhiều 😘😘',
-    messDesc: 'nếu vẫn chưa đủ thuyết phục thì xem ảnh này nhéeee.',
+    messDesc: 'v thì ntin cho tui ngay thuiii nhỉ.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+    messLink: 'https://www.instagram.com/m.duong._/'
 }
